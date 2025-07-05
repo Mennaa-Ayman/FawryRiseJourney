@@ -1,0 +1,10 @@
+com\mycompany\fawryrisejourney\Cart.class
+com\mycompany\fawryrisejourney\ExpirableProduct.class
+com\mycompany\fawryrisejourney\Customer.class
+com\mycompany\fawryrisejourney\CheckoutService.class
+com\mycompany\fawryrisejourney\Product.class
+com\mycompany\fawryrisejourney\ShippingService.class
+com\mycompany\fawryrisejourney\ShippableProduct.class
+com\mycompany\fawryrisejourney\CartItem.class
+com\mycompany\fawryrisejourney\ShippingService$ItemSummary.class
+com\mycompany\fawryrisejourney\FawryRiseJourney.class
